@@ -11,3 +11,22 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `Project1` (`Siteinfo.vbp`) | VB6 | WinForms exe | Capture PC info per site and emit naming template |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Siteinfo.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+- ADO for tblSites / tblPCInfo
+- WMI access on the local PC
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/Siteinfo`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
